@@ -1,4 +1,4 @@
 hello
 =====
 
-for github practice
+Various hello world implementation.
